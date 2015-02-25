@@ -1,0 +1,49 @@
+html {
+	background-color:#C1E3E1;
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	border-color: #999;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	padding-top:10px;
+	background-color:#E3EEF0;
+}
+
+h1 {
+	text-align: center;
+	color: #420842;
+	margin:15px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #6a006a;
+}
+
+a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #f2a400;
+}
+
+:visited {
+	color:#191919;
+}
+
+a:active {
+	background-color: #727071;
+}
+
+#nav {
+	align: center;
+	padding:10px;
+}
+
+p {
+	font-family:Verdana, Geneva, sans-serif;
+}
